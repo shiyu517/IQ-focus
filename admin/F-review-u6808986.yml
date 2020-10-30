@@ -1,0 +1,27 @@
+# Write your name and UID here.
+#
+reviewer:
+    name: Ujjwal Bansal
+    uid: u6808986
+
+# Write the name of the author of the code here.
+#
+author:
+  name: Shaocong Lang
+  uid: u6499863
+
+# Write the class or method being reviewed here.
+#
+component:
+  task2 isPiecePlacementWellFormed & task 8 makeChallenge
+
+# Write a list of review comments here.
+#
+comments:
+  -       1. well-implemented
+  -       2. well-structured
+  -       3. cleared documentation
+
+
+
+

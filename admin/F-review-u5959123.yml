@@ -1,0 +1,28 @@
+# Write your name and UID here.
+#
+reviewer:
+    name: Shiyu Chen
+    uid: u5959123
+
+# Write the name of the author of the code here.
+#
+author:
+  name: Ujjwal Bansal
+  uid: u6808986
+
+# Write the class or method being reviewed here.
+#
+component:
+  task 5 isPlacementStringWellFormed
+
+# Write a list of review comments here.
+#
+comments:
+  -       1. code well-documented
+  -       2. correct decomposition and good structure
+  -       3. methods and variables are properly named
+  -       4. style consistent throughout
+  -       5. no error, but kind of hard coding
+
+
+

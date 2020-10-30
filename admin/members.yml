@@ -1,0 +1,11 @@
+# List the membership of this group.  (Remove entries if you have fewer
+# than three members.)
+#
+
+members:
+  - name: Ujjwal Bansal
+    uid: u6808986
+  - name: Shiyu Chen
+    uid: u5959123
+  - name: Shaocong Lang
+    uid: u6499863
